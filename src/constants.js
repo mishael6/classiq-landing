@@ -88,7 +88,7 @@ export const ANDROID_STEPS = [
 ]
 
 export const IPHONE_STEPS = [
-  'Open ClassIQ in Safari browser.',
+  'Open https://app-class-iq.netlify.app in Safari browser.',
   'Tap the Share icon (□↑) at the bottom of the screen.',
   'Scroll down and select "Add to Home Screen".',
   'Change the name to "ClassIQ" and tap "Done".',
