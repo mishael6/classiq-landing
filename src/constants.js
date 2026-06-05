@@ -1,5 +1,5 @@
 export const APP_URL = 'https://app-class-iq.netlify.app'
-export const WHATSAPP_URL = '#' // Replace with your WhatsApp channel link
+export const WHATSAPP_URL = 'https://whatsapp.com/channel/0029VbCX86d7jg2szbCas0P' // Replace with your WhatsApp channel link
 
 export const STUDENTS = [
   { name: 'Kwame Mensah',     pct: 98, avatar: 'KM', color: '#f59e0b', rank: '🥇' },
