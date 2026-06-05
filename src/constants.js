@@ -79,7 +79,7 @@ export const TESTIMONIALS = [
 ]
 
 export const ANDROID_STEPS = [
-  'Open ClassIQ in Chrome browser.',
+  'Click on "Open ClassIQ Now" button below in Chrome browser.',
   'Tap the browser menu (⋮) in the top right corner.',
   'Select "Add to Home Screen" from the menu.',
   'Change the name to "ClassIQ" and tap "Done".',
